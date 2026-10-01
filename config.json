@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-python-functions",
+      "title": "Testing Python Functions with pytest",
+      "description": "Write automated tests and use a failing test to debug Python functions",
+      "path": "assignments/testing-python-functions",
+      "dueDate": "2026-10-08",
+      "attachments": [
+        {
+          "name": "Function Source",
+          "file": "functions.py",
+          "type": "python"
+        },
+        {
+          "name": "Starter Tests",
+          "file": "test_functions.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
